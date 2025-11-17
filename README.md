@@ -6,3 +6,9 @@ Currently I'm working on various projects from 2D game development, Budgeting Ap
 
 My main tech stack currently are C and Java, with Blender and Godot as secondary(status: learning). The tools are Obsidian, Apple notes, blender, Godot and my IDE Apache Netbean and CodeBlocks.
 
+Fun facts about me:
+- I am a huge Stray kids fan
+- Debate is my favourate thing in the world
+- I hate coffee
+- I'm highly introverted however bring up a topic on sociology and i will talk uninterupted for 1 hour minimum
+- Currently learning korean and Japanese (I want to watch kdramas and anime without any subtitles)
